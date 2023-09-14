@@ -1,4 +1,4 @@
-<img src="user-bg.jpg"
+<div src="user-bg.jpg"
      alt="Banner"
      style="
      float: left; 
@@ -8,6 +8,7 @@
      margin-bottom: 2;
      background-repeat: no-repeat;
      background-size: cover;
+     background: url(user-bg.jpg);
      justify-content: center;
      background: #fff;
      border: 1 solid #242528;
