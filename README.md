@@ -1,10 +1,9 @@
-- 👋 Hi, I’m @im-aeo
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+### Hi there 👋 im [Aeo Zatoichi Bax](https://github.com/im-aeo) <div>
 
-<!---
-im-aeo/im-aeo is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+
+- 🔭 I sometimes work on [Brickplanet](https://github.com/im-aeo/Brickplanet) for fun.
+
+
+[![My Skills](https://skillicons.dev/icons?i=ts,laravel,html,css,vue,vite,webpack)]()
+
+<hr>
