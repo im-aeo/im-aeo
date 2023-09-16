@@ -1,4 +1,4 @@
-<div src="user-bg.jpg"
+<img src="user-bg.jpg"
      alt="Banner"
      style="
      float: left; 
@@ -8,11 +8,10 @@
      margin-bottom: 2;
      background-repeat: no-repeat;
      background-size: cover;
-     background: url(user-bg.jpg);
      justify-content: center;
-     background: #fff;
-     border: 1 solid #242528;
-     box-shadow: 0 1 2 #242528;
+     background: ffffff;
+     border: 1 solid 242528;
+     box-shadow: 0 1 2 242528;
      border-radius: 50;
      padding: 18;
      " 
@@ -23,6 +22,6 @@
 - 🔭 I sometimes work on [Brickplanet](https://github.com/im-aeo/Brickplanet) for fun.
 
 
-[![My Skills](https://skillicons.dev/icons?i=ts,laravel,html,css,vue,vite,webpack)]()
+[![My Skills](https://skillicons.dev/icons?i=ts,laravel,adonis,html,css,vue,vite,webpack)]()
 
 <hr>
